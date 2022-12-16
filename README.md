@@ -1,7 +1,7 @@
 ### Work account
 
-![Profile views](https://gpvc.arturio.dev/NathanPeake) - My Main profile <br>
-![Profile views](https://gpvc.arturio.dev/Nathan-Peake) - This profile 
+[![Profile views](https://gpvc.arturio.dev/NathanPeake)](https://github.com/NathanPeake/NathanPeake) - My Main profile <br>
+[![Profile views](https://gpvc.arturio.dev/Nathan-Peake)](https://github.com/NathanPeake/Nathan-Peake) - This profile 
 
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/NathanPeake/NathanPeake)
 
